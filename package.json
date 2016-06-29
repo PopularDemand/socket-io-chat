@@ -1,7 +1,7 @@
 {
-  "name": "battlechat",
+  "name": "socketchat",
   "version": "0.0.1",
-  "description": "chat room with trivia",
+  "description": "chat room with socketio and express",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
