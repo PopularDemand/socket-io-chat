@@ -38,5 +38,5 @@ io.on('connection', function(socket) {
 });
 
 server.start(function(){
-  console.log('shits on fire yo');
+  console.log('server listening');
 })
